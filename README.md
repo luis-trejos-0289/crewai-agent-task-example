@@ -45,7 +45,3 @@ The script will:
 ## References
 - [CrewAI SDK Documentation](https://docs.crewai.com/)
 - [OpenAI API](https://platform.openai.com/docs/api-reference)
-
----
-
-*This example is for educational purposes and can be adapted for other research/reporting workflows using CrewAI.*
